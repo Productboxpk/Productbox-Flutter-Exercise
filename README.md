@@ -64,5 +64,5 @@ Bonus:
 
 Notes:
 ------
-- Please submit your exercise within 5 days after you receive it. 
+- Please submit your exercise within 3 to 5 days after you receive it. 
 - If you feel you need more time, inform us before-hand.
