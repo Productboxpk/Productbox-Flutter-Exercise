@@ -51,10 +51,11 @@ Implementation Notes:
 - Use State management to keep track of which documents have been uploaded, you can choose your prefered state management tool for this exercise (setState is not recommended but it is also not restricted) (https://flutter.dev/docs/development/data-and-backend/state-mgmt)
 - Designs should be responsive
 - Make sure you don't have your business logic and view in the same file
-- Utilise Stateful Widget but make sure there are no unnecessary rebuilts (this in incase you're using setState as a state management tool, which isn't recommended for this exercie)
+- Utilise Stateful Widget but make sure there are no unnecessary rebuilts (this is incase you're using setState as a state management tool, which isn't recommended for this exercie)
 - Push codebase on a github repo
 - Please feel free to use any libraries or plugins 
 - If a design element is taking too much effort, try doing your best while keeping the idea of the widget in mind with the current theme.
+- Try maintaining a consistant user experience throughout the app. Your sense of design will also be tested with how you handle errors and edge cases, construct validators and handle other UX elements while maintaining a pleasant flow of the app for the user.
 
 Bonus:
 ------
