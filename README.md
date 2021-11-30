@@ -46,12 +46,12 @@ While designing try to maintain a material design feel of the entire screen and 
 
 Implementation Notes:
 ---------------------
-- Prefer named routes (https://flutter.dev/docs/cookbook/navigation/named-routes)
+- Prefer named routes but if your state management recommends a certain route approach, you can go with that. (https://flutter.dev/docs/cookbook/navigation/named-routes)
 - Create as many Widgets as possible
-- Use State management to keep track of which documents have been uploaded, you can choose your prefered state management tool for this exercise (https://flutter.dev/docs/development/data-and-backend/state-mgmt)
+- Use State management to keep track of which documents have been uploaded, you can choose your prefered state management tool for this exercise (setState is not recommended but it is also not restricted) (https://flutter.dev/docs/development/data-and-backend/state-mgmt)
 - Designs should be responsive
 - Make sure you don't have your business logic and view in the same file
-- Utilise Stateful Widget but make sure there are no unnecessary rebuilts
+- Utilise Stateful Widget but make sure there are no unnecessary rebuilts (this in incase you're using setState as a state management tool, which isn't recommended for this exercie)
 - Push codebase on a github repo
 - Please feel free to use any libraries or plugins 
 - If a design element is taking too much effort, try doing your best while keeping the idea of the widget in mind with the current theme.
