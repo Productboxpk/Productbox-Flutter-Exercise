@@ -1,7 +1,7 @@
 Productbox Flutter Engineering Test
 =========================================
 
-In this test you have to create three hi-def screens in the screenshots sent to you via email. In this test our focus is how well an Engineer can copy the User Interface elements and how good User Experience would be while using this application.
+In this test you have to create three hi-fid screens in the screenshots sent to you via email. This exercise is to test the engineer's UI and programming capabilities. Your designs should be close to the hi-fid screens provided, moreover, your way of coding skills will also be evaluated so please feel free to show off.
 
 Task
 ----
@@ -11,6 +11,7 @@ The three screens are:
 - `Login Screen` 
 - `Upload User's Information Screen`
 - `Dashboard Screen`
+- `Websockets Screen`
 
 Login Screen:
 -------------
@@ -44,8 +45,8 @@ The above circular stories widgets should be horizontally scrollable while the i
 
 While designing try to maintain a material design feel of the entire screen and application.
 
-Forth Screen
------------------
+Websockets Screen:
+------------------
 The design of the forth screen is left to you, you are to utilize a whole screen for the implementation of websockets. For more info on websockets you can browse through -> https://pub.dev/packages/web_socket_channel. Be creative with how you go about this. To receive data in the form of streams, you can use -> https://www.piesocket.com/websocket-tester. This is a mandatory task like the rest, do not treat it lightly. 
 
 Implementation Notes:
