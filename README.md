@@ -44,6 +44,10 @@ The above circular stories widgets should be horizontally scrollable while the i
 
 While designing try to maintain a material design feel of the entire screen and application.
 
+Forth Screen
+-----------------
+The design of the forth screen is left to you, you are to utilize a whole screen for the implementation of websockets. For more info on websockets you can browse through -> https://pub.dev/packages/web_socket_channel. Be creative with how you go about this. To receive data in the form of streams, you can use -> https://www.piesocket.com/websocket-tester. This is a mandatory task like the rest, do not treat it lightly. 
+
 Implementation Notes:
 ---------------------
 - Prefer named routes but if your state management recommends a certain route approach, you can go with that. (https://flutter.dev/docs/cookbook/navigation/named-routes)
