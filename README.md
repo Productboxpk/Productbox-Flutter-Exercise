@@ -56,6 +56,7 @@ Implementation Notes:
 - Use State management to keep track of which documents have been uploaded, you can choose your prefered state management tool for this exercise (setState is not recommended but it is also not restricted) (https://flutter.dev/docs/development/data-and-backend/state-mgmt)
 - Designs should be responsive
 - Make sure you don't have your business logic and view in the same file
+- The prefered State Management tool is Cubit / BLoC
 - Utilise Stateful Widget but make sure there are no unnecessary rebuilts (this is incase you're using setState as a state management tool, which isn't recommended for this exercie)
 - Push codebase on a github repo
 - Please feel free to use any libraries or plugins 
