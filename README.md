@@ -71,4 +71,4 @@ Bonus:
 
 Notes:
 ------
-- If you feel you need more time, inform us before-hand.
+- If you feel you need more time, inform us before starting your exercise.
