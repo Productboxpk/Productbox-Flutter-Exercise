@@ -11,7 +11,7 @@ The three screens are:
 - `Login Screen` 
 - `Upload User's Information Screen`
 - `Dashboard Screen`
-- `Websockets Screen`
+- `Websockets Screen (additional)` 
 
 Login Screen:
 -------------
